@@ -1,0 +1,2 @@
+"""Support ticket assistant package."""
+
